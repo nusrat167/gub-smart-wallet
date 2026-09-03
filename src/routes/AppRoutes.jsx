@@ -23,7 +23,7 @@ function AppRoutes() {
   return (
     <BrowserRouter>
 
-      {/* Navbar - সব page-এ থাকবে */}
+      {}
       <Navbar />
 
       <Routes>
